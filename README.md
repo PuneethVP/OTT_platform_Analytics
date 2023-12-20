@@ -27,7 +27,7 @@
 
 # Dashboard in Tableau
 
-<img src="Dashboard__countries_young_pop_tv_movies">
+<img src="Dashboard__countries_young_pop_tv_movies.png">
 
 ### Netflix:
 
