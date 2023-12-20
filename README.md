@@ -4,7 +4,7 @@
 -  used Datacamp website ennvironment for executing the data modelling and Exported csv files after cleaning and merging different contents from various platforms and Analysed using Tableau
 
 
-# Data Camp Notebook Link ( Attached the notebook exported as HTML embedded in the repo for quicker loadinng time ) - 
+# Data Camp Notebook Link ( Attached the notebook exported as HTML embedded in the repo for quicker loading time ) - 
 
 # Fuzzy Matching and Sentence Transformer
 - Sentence Transformers are models that transform text into fixed-size numerical representations (embeddings) suitable for various natural language processing tasks, including similarity calculations.
