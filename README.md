@@ -20,9 +20,24 @@
 - When we ran without sentence transformer the time taken to execute and match titles was approximately around 7-10 hours and now this has been reduced to 2.5 hours after implementing Sentence Transformers and Fuzzy Wuzzy together.
 
 # Project Workflow
-
+<img src="Project Workflow.png">
 
 # Data Modelling
+<img src="Physical ERD_report_copy.jpg">
+
+# Dashboard in Tableau
+
+<img src="Dashboard__countries_young_pop_tv_movies">
+
+### Netflix:
+
+- Over the years, after selecting countries of interest, the dashboard below gives us an overview of the young population percentage and the added TV shows and series.
+- United States and United Kingdom - Even though the young population percentage decreased, the number of movies and TV shows continued to increase, with movies having the upper hand until 2019. From 2020, which we know is the start of the COVID pandemic, the trend tends to fall off, and the overall content added, be it TV shows or movies, has considerably decreased. The same is the case with Canada.
+- Although the attention span of youngsters is reducing year by year and the young population percentage also decreasing through the years - there is no concrete relation between the young population percentage and the number of contents on shorter and longer formats being added. Overall, we can see several movies have the upper hand- there could be a lot of reasons behind it, but the young population percentage appears not to affect the movies and TV shows added to Netflix in these countries.
+- But if we consider countries like India, where OTT platform content is relatively new, the trend of movies and TV shows added differs significantly. There was a steep downtrend after the year 2020 with movies added.
+- Japan showed a somewhat different trend, probably because anime content is usually in a longer format, and Japan is known for anime content. We can see the number of TV shows has the upper hand, and the number of movies added is comparatively less. It doesn't have any trend matching the young population percentage in the country.
+- Overall there is a considerable decrease in number of content added to Netflix post-2020 due to the impact of covid.
+
 
 
 
