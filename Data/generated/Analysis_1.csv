@@ -1,0 +1,778 @@
+Country_id,Country,Release_Year,OTT_Platform,Category,Content_Count,Young_Population_Percentage
+44,argentina,2016,netflix,movie,3,24.97784996032715
+44,argentina,2017,netflix,movie,15,24.81924057006836
+44,argentina,2017,netflix,tv show,1,24.81924057006836
+44,argentina,2018,hulu,movie,1,24.66253089904785
+44,argentina,2018,netflix,movie,24,24.66253089904785
+44,argentina,2018,netflix,tv show,3,24.66253089904785
+44,argentina,2019,netflix,movie,10,24.505834579467773
+44,argentina,2019,netflix,tv show,8,24.505834579467773
+44,argentina,2020,hulu,movie,1,24.346525192260742
+44,argentina,2020,netflix,movie,13,24.346525192260742
+44,argentina,2020,disney,tv show,3,24.346525192260742
+44,argentina,2020,netflix,tv show,4,24.346525192260742
+44,argentina,2021,netflix,movie,8,24.18284034729004
+44,argentina,2021,netflix,tv show,4,24.18284034729004
+23,australia,2012,hulu,tv show,1,18.932415008544922
+23,australia,2013,hulu,movie,1,18.92901039123535
+23,australia,2013,hulu,tv show,2,18.92901039123535
+23,australia,2014,hulu,movie,1,18.91200065612793
+23,australia,2014,hulu,tv show,2,18.91200065612793
+23,australia,2015,netflix,movie,3,18.89283561706543
+23,australia,2015,netflix,tv show,2,18.89283561706543
+23,australia,2016,netflix,movie,5,18.902132034301758
+23,australia,2016,netflix,tv show,3,18.902132034301758
+23,australia,2017,netflix,movie,17,18.850528717041016
+23,australia,2017,hulu,tv show,2,18.850528717041016
+23,australia,2017,netflix,tv show,9,18.850528717041016
+23,australia,2018,netflix,movie,29,18.77077293395996
+23,australia,2018,hulu,movie,2,18.77077293395996
+23,australia,2018,netflix,tv show,9,18.77077293395996
+23,australia,2019,hulu,movie,3,18.67488670349121
+23,australia,2019,netflix,movie,19,18.67488670349121
+23,australia,2019,disney,movie,14,18.67488670349121
+23,australia,2019,netflix,tv show,16,18.67488670349121
+23,australia,2019,disney,tv show,1,18.67488670349121
+23,australia,2020,hulu,movie,19,18.54909896850586
+23,australia,2020,disney,movie,1,18.54909896850586
+23,australia,2020,netflix,movie,11,18.54909896850586
+23,australia,2020,hulu,tv show,2,18.54909896850586
+23,australia,2020,netflix,tv show,17,18.54909896850586
+23,australia,2021,disney,movie,4,18.493499755859375
+23,australia,2021,hulu,movie,1,18.493499755859375
+23,australia,2021,netflix,movie,14,18.493499755859375
+23,australia,2021,disney,tv show,2,18.493499755859375
+23,australia,2021,netflix,tv show,10,18.493499755859375
+23,australia,2021,hulu,tv show,1,18.493499755859375
+49,austria,2016,netflix,movie,1,14.361611366271973
+49,austria,2017,netflix,movie,2,14.417765617370605
+49,austria,2018,netflix,movie,1,14.431221008300781
+49,austria,2019,netflix,movie,4,14.421945571899414
+49,austria,2019,disney,movie,1,14.421945571899414
+49,austria,2020,netflix,movie,2,14.393330574035645
+49,austria,2020,hulu,movie,2,14.393330574035645
+49,austria,2020,netflix,tv show,1,14.393330574035645
+49,austria,2021,netflix,movie,1,14.382372856140137
+49,austria,2021,disney,movie,1,14.382372856140137
+22,belgium,2015,netflix,movie,3,16.978729248046875
+22,belgium,2016,netflix,movie,4,16.96425437927246
+22,belgium,2017,netflix,movie,20,16.952878952026367
+22,belgium,2017,netflix,tv show,1,16.952878952026367
+22,belgium,2018,netflix,movie,12,16.927946090698242
+22,belgium,2018,hulu,movie,5,16.927946090698242
+22,belgium,2018,netflix,tv show,2,16.927946090698242
+22,belgium,2019,hulu,movie,2,16.876487731933594
+22,belgium,2019,netflix,movie,19,16.876487731933594
+22,belgium,2019,netflix,tv show,3,16.876487731933594
+22,belgium,2020,netflix,movie,20,16.791452407836914
+22,belgium,2020,hulu,movie,6,16.791452407836914
+22,belgium,2020,netflix,tv show,2,16.791452407836914
+22,belgium,2021,netflix,movie,5,16.679824829101562
+22,belgium,2021,disney,movie,1,16.679824829101562
+22,belgium,2021,netflix,tv show,4,16.679824829101562
+31,brazil,2016,netflix,movie,1,21.913623809814453
+31,brazil,2016,netflix,tv show,1,21.913623809814453
+31,brazil,2017,netflix,movie,16,21.60458755493164
+31,brazil,2018,netflix,movie,14,21.347002029418945
+31,brazil,2018,hulu,movie,1,21.347002029418945
+31,brazil,2018,netflix,tv show,5,21.347002029418945
+31,brazil,2019,netflix,movie,14,21.104328155517578
+31,brazil,2019,netflix,tv show,9,21.104328155517578
+31,brazil,2020,netflix,movie,13,20.866546630859375
+31,brazil,2020,netflix,tv show,14,20.866546630859375
+31,brazil,2021,netflix,movie,9,20.645193099975586
+31,brazil,2021,disney,movie,1,20.645193099975586
+31,brazil,2021,netflix,tv show,2,20.645193099975586
+64,bulgaria,2017,netflix,movie,2,14.170507431030273
+64,bulgaria,2018,netflix,movie,4,14.300431251525879
+64,bulgaria,2019,hulu,movie,1,14.386266708374023
+64,bulgaria,2019,netflix,movie,1,14.386266708374023
+64,bulgaria,2020,hulu,movie,4,14.430816650390625
+64,bulgaria,2020,netflix,movie,1,14.430816650390625
+64,bulgaria,2021,netflix,movie,2,14.482069969177246
+2,canada,2013,netflix,movie,1,16.258756637573242
+2,canada,2013,hulu,tv show,1,16.258756637573242
+2,canada,2014,netflix,movie,1,16.2314453125
+2,canada,2014,hulu,tv show,4,16.2314453125
+2,canada,2014,netflix,tv show,3,16.2314453125
+2,canada,2015,netflix,movie,3,16.227901458740234
+2,canada,2015,hulu,movie,1,16.227901458740234
+2,canada,2015,hulu,tv show,1,16.227901458740234
+2,canada,2015,netflix,tv show,3,16.227901458740234
+2,canada,2016,netflix,movie,16,16.244550704956055
+2,canada,2016,hulu,tv show,2,16.244550704956055
+2,canada,2016,netflix,tv show,15,16.244550704956055
+2,canada,2017,netflix,movie,55,16.177438735961914
+2,canada,2017,hulu,tv show,2,16.177438735961914
+2,canada,2017,netflix,tv show,19,16.177438735961914
+2,canada,2018,hulu,movie,5,16.09650993347168
+2,canada,2018,netflix,movie,65,16.09650993347168
+2,canada,2018,netflix,tv show,21,16.09650993347168
+2,canada,2018,hulu,tv show,4,16.09650993347168
+2,canada,2019,hulu,movie,11,15.97652530670166
+2,canada,2019,netflix,movie,66,15.97652530670166
+2,canada,2019,disney,movie,33,15.97652530670166
+2,canada,2019,disney,tv show,11,15.97652530670166
+2,canada,2019,hulu,tv show,6,15.97652530670166
+2,canada,2019,netflix,tv show,22,15.97652530670166
+2,canada,2020,netflix,movie,82,15.887880325317383
+2,canada,2020,hulu,movie,32,15.887880325317383
+2,canada,2020,disney,movie,10,15.887880325317383
+2,canada,2020,hulu,tv show,6,15.887880325317383
+2,canada,2020,disney,tv show,1,15.887880325317383
+2,canada,2020,netflix,tv show,31,15.887880325317383
+2,canada,2021,amazon,movie,3,15.752079010009766
+2,canada,2021,hulu,movie,6,15.752079010009766
+2,canada,2021,disney,movie,18,15.752079010009766
+2,canada,2021,netflix,movie,41,15.752079010009766
+2,canada,2021,netflix,tv show,19,15.752079010009766
+2,canada,2021,hulu,tv show,7,15.752079010009766
+2,canada,2021,disney,tv show,5,15.752079010009766
+45,chile,2016,netflix,movie,2,20.3265323638916
+45,chile,2017,netflix,movie,5,20.03183364868164
+45,chile,2017,netflix,tv show,3,20.03183364868164
+45,chile,2018,netflix,movie,9,19.71126937866211
+45,chile,2019,netflix,movie,3,19.438583374023438
+45,chile,2020,netflix,movie,3,19.21049690246582
+45,chile,2020,hulu,movie,1,19.21049690246582
+45,chile,2020,netflix,tv show,2,19.21049690246582
+45,chile,2020,hulu,tv show,1,19.21049690246582
+45,chile,2021,netflix,movie,2,19.034433364868164
+6,china,2015,netflix,tv show,1,18.356569290161133
+6,china,2016,netflix,movie,5,18.347490310668945
+6,china,2016,netflix,tv show,4,18.347490310668945
+6,china,2017,netflix,movie,17,18.404680252075195
+6,china,2017,netflix,tv show,7,18.404680252075195
+6,china,2017,hulu,tv show,1,18.404680252075195
+6,china,2018,netflix,movie,32,18.39055061340332
+6,china,2018,hulu,movie,2,18.39055061340332
+6,china,2018,netflix,tv show,10,18.39055061340332
+6,china,2019,netflix,movie,24,18.261510848999023
+6,china,2019,disney,movie,6,18.261510848999023
+6,china,2019,disney,tv show,3,18.261510848999023
+6,china,2019,netflix,tv show,16,18.261510848999023
+6,china,2020,hulu,movie,3,18.02511978149414
+6,china,2020,netflix,movie,22,18.02511978149414
+6,china,2020,netflix,tv show,7,18.02511978149414
+6,china,2021,netflix,movie,17,17.668071746826172
+6,china,2021,disney,tv show,1,17.668071746826172
+6,china,2021,netflix,tv show,3,17.668071746826172
+38,colombia,2016,netflix,tv show,2,24.7054443359375
+38,colombia,2017,netflix,movie,1,24.34227180480957
+38,colombia,2017,netflix,tv show,3,24.34227180480957
+38,colombia,2018,netflix,movie,9,24.02936553955078
+38,colombia,2018,hulu,tv show,1,24.02936553955078
+38,colombia,2018,netflix,tv show,6,24.02936553955078
+38,colombia,2019,netflix,movie,4,23.76338768005371
+38,colombia,2019,hulu,movie,1,23.76338768005371
+38,colombia,2019,netflix,tv show,8,23.76338768005371
+38,colombia,2020,hulu,movie,2,23.256237030029297
+38,colombia,2020,netflix,movie,3,23.256237030029297
+38,colombia,2020,netflix,tv show,7,23.256237030029297
+38,colombia,2020,hulu,tv show,1,23.256237030029297
+38,colombia,2021,netflix,movie,3,22.92021369934082
+38,colombia,2021,netflix,tv show,6,22.92021369934082
+20,costa rica,2020,hulu,movie,1,21.757307052612305
+46,croatia,2016,netflix,movie,1,14.5485200881958
+46,croatia,2017,netflix,movie,1,14.494060516357422
+46,croatia,2018,netflix,movie,1,14.447399139404297
+46,croatia,2019,netflix,tv show,1,14.384713172912598
+89,cyprus,2020,netflix,tv show,1,16.035991668701172
+55,czech republic,2017,netflix,movie,4,15.66323184967041
+55,czech republic,2018,netflix,movie,2,15.825145721435547
+55,czech republic,2018,netflix,tv show,3,15.825145721435547
+55,czech republic,2019,disney,movie,1,15.946887016296387
+55,czech republic,2019,netflix,movie,3,15.946887016296387
+55,czech republic,2019,hulu,movie,1,15.946887016296387
+55,czech republic,2019,netflix,tv show,1,15.946887016296387
+55,czech republic,2020,hulu,movie,1,16.028217315673828
+55,czech republic,2020,netflix,movie,4,16.028217315673828
+55,czech republic,2020,netflix,tv show,1,16.028217315673828
+55,czech republic,2021,hulu,movie,1,16.079669952392578
+55,czech republic,2021,netflix,movie,3,16.079669952392578
+55,czech republic,2021,netflix,tv show,1,16.079669952392578
+12,denmark,2009,netflix,movie,1,18.201826095581055
+12,denmark,2016,netflix,movie,6,16.76580238342285
+12,denmark,2017,netflix,movie,4,16.67095947265625
+12,denmark,2017,hulu,movie,1,16.67095947265625
+12,denmark,2017,netflix,tv show,1,16.67095947265625
+12,denmark,2018,hulu,movie,6,16.571590423583984
+12,denmark,2018,netflix,movie,9,16.571590423583984
+12,denmark,2018,netflix,tv show,1,16.571590423583984
+12,denmark,2019,disney,movie,1,16.41780662536621
+12,denmark,2019,hulu,movie,2,16.41780662536621
+12,denmark,2019,netflix,movie,9,16.41780662536621
+12,denmark,2019,netflix,tv show,3,16.41780662536621
+12,denmark,2019,hulu,tv show,1,16.41780662536621
+12,denmark,2019,disney,tv show,1,16.41780662536621
+12,denmark,2020,netflix,movie,2,16.308910369873047
+12,denmark,2020,hulu,movie,8,16.308910369873047
+12,denmark,2020,netflix,tv show,8,16.308910369873047
+12,denmark,2021,netflix,movie,3,16.18069076538086
+12,denmark,2021,disney,movie,1,16.18069076538086
+12,denmark,2021,netflix,tv show,2,16.18069076538086
+12,denmark,2021,hulu,tv show,1,16.18069076538086
+18,finland,2016,netflix,movie,1,16.28849220275879
+18,finland,2017,netflix,movie,1,16.199493408203125
+18,finland,2018,netflix,movie,1,16.069747924804688
+18,finland,2018,hulu,movie,2,16.069747924804688
+18,finland,2019,netflix,movie,3,15.876452445983887
+18,finland,2020,netflix,movie,1,15.660402297973633
+18,finland,2020,hulu,movie,1,15.660402297973633
+18,finland,2020,netflix,tv show,3,15.660402297973633
+18,finland,2021,netflix,tv show,2,15.454339027404785
+10,france,2011,netflix,movie,2,18.57862663269043
+10,france,2011,hulu,tv show,1,18.57862663269043
+10,france,2015,netflix,movie,6,18.505022048950195
+10,france,2015,netflix,tv show,3,18.505022048950195
+10,france,2016,netflix,movie,16,18.363161087036133
+10,france,2016,netflix,tv show,13,18.363161087036133
+10,france,2017,hulu,movie,2,18.23171043395996
+10,france,2017,netflix,movie,48,18.23171043395996
+10,france,2017,netflix,tv show,6,18.23171043395996
+10,france,2017,hulu,tv show,1,18.23171043395996
+10,france,2018,netflix,movie,51,18.085020065307617
+10,france,2018,hulu,movie,6,18.085020065307617
+10,france,2018,netflix,tv show,16,18.085020065307617
+10,france,2019,hulu,movie,5,17.92005729675293
+10,france,2019,disney,movie,6,17.92005729675293
+10,france,2019,netflix,movie,62,17.92005729675293
+10,france,2019,netflix,tv show,18,17.92005729675293
+10,france,2019,hulu,tv show,1,17.92005729675293
+10,france,2019,disney,tv show,4,17.92005729675293
+10,france,2020,hulu,movie,18,17.76137924194336
+10,france,2020,netflix,movie,78,17.76137924194336
+10,france,2020,disney,movie,5,17.76137924194336
+10,france,2020,hulu,tv show,4,17.76137924194336
+10,france,2020,disney,tv show,1,17.76137924194336
+10,france,2020,netflix,tv show,24,17.76137924194336
+10,france,2021,disney,movie,2,17.59019660949707
+10,france,2021,amazon,movie,1,17.59019660949707
+10,france,2021,hulu,movie,3,17.59019660949707
+10,france,2021,netflix,movie,51,17.59019660949707
+10,france,2021,disney,tv show,4,17.59019660949707
+10,france,2021,netflix,tv show,11,17.59019660949707
+13,germany,2015,netflix,movie,1,13.201582908630371
+13,germany,2015,hulu,movie,1,13.201582908630371
+13,germany,2015,netflix,tv show,1,13.201582908630371
+13,germany,2016,netflix,movie,10,13.315149307250977
+13,germany,2016,netflix,tv show,4,13.315149307250977
+13,germany,2017,netflix,movie,30,13.441286087036133
+13,germany,2017,netflix,tv show,3,13.441286087036133
+13,germany,2018,netflix,movie,28,13.547049522399902
+13,germany,2018,hulu,movie,4,13.547049522399902
+13,germany,2018,hulu,tv show,1,13.547049522399902
+13,germany,2018,netflix,tv show,6,13.547049522399902
+13,germany,2019,netflix,movie,41,13.648612976074219
+13,germany,2019,disney,movie,2,13.648612976074219
+13,germany,2019,hulu,movie,2,13.648612976074219
+13,germany,2019,hulu,tv show,1,13.648612976074219
+13,germany,2019,netflix,tv show,4,13.648612976074219
+13,germany,2019,disney,tv show,1,13.648612976074219
+13,germany,2020,hulu,movie,26,13.749892234802246
+13,germany,2020,disney,movie,3,13.749892234802246
+13,germany,2020,netflix,movie,41,13.749892234802246
+13,germany,2020,netflix,tv show,20,13.749892234802246
+13,germany,2020,hulu,tv show,3,13.749892234802246
+13,germany,2021,hulu,movie,3,13.873690605163574
+13,germany,2021,netflix,movie,33,13.873690605163574
+13,germany,2021,disney,movie,3,13.873690605163574
+13,germany,2021,netflix,tv show,8,13.873690605163574
+58,greece,2016,netflix,movie,3,14.436896324157715
+58,greece,2016,netflix,tv show,2,14.436896324157715
+58,greece,2017,netflix,movie,2,14.418533325195312
+58,greece,2018,netflix,movie,2,14.365859031677246
+58,greece,2019,hulu,movie,1,14.291722297668457
+58,greece,2020,netflix,movie,2,14.199338912963867
+58,greece,2021,netflix,movie,1,13.907026290893555
+14,hungary,2014,netflix,tv show,2,14.458074569702148
+14,hungary,2016,netflix,movie,1,14.50636100769043
+14,hungary,2018,netflix,movie,2,14.544713020324707
+14,hungary,2019,netflix,movie,3,14.54835033416748
+14,hungary,2019,disney,movie,1,14.54835033416748
+14,hungary,2020,netflix,movie,2,14.556540489196777
+14,hungary,2020,hulu,movie,1,14.556540489196777
+14,hungary,2021,netflix,movie,4,14.559408187866211
+14,hungary,2021,disney,movie,2,14.559408187866211
+78,iceland,2016,netflix,tv show,1,19.877771377563477
+78,iceland,2017,netflix,movie,1,19.542863845825195
+78,iceland,2018,netflix,movie,1,19.16806983947754
+78,iceland,2018,hulu,movie,1,19.16806983947754
+78,iceland,2019,netflix,movie,1,18.864648818969727
+78,iceland,2020,netflix,movie,3,18.721176147460938
+78,iceland,2020,netflix,tv show,1,18.721176147460938
+78,iceland,2021,netflix,tv show,1,18.62918472290039
+34,india,2016,netflix,movie,13,28.118532180786133
+34,india,2017,netflix,movie,150,27.595521926879883
+34,india,2017,netflix,tv show,14,27.595521926879883
+34,india,2018,hulu,movie,1,27.087675094604492
+34,india,2018,netflix,movie,332,27.087675094604492
+34,india,2018,netflix,tv show,17,27.087675094604492
+34,india,2019,hulu,movie,1,26.594032287597656
+34,india,2019,disney,movie,3,26.594032287597656
+34,india,2019,netflix,movie,201,26.594032287597656
+34,india,2019,netflix,tv show,19,26.594032287597656
+34,india,2020,disney,movie,1,26.112333297729492
+34,india,2020,netflix,movie,182,26.112333297729492
+34,india,2020,netflix,tv show,18,26.112333297729492
+34,india,2021,amazon,movie,2,25.687591552734375
+34,india,2021,netflix,movie,88,25.687591552734375
+34,india,2021,netflix,tv show,17,25.687591552734375
+34,india,2021,disney,tv show,1,25.687591552734375
+34,india,2021,amazon,tv show,1,25.687591552734375
+57,indonesia,2016,netflix,movie,1,25.680463790893555
+57,indonesia,2017,netflix,movie,1,25.37803840637207
+57,indonesia,2017,netflix,tv show,1,25.37803840637207
+57,indonesia,2018,netflix,movie,28,25.08305549621582
+57,indonesia,2018,netflix,tv show,1,25.08305549621582
+57,indonesia,2019,netflix,movie,18,24.792150497436523
+57,indonesia,2020,netflix,movie,27,24.504884719848633
+57,indonesia,2020,netflix,tv show,1,24.504884719848633
+57,indonesia,2021,netflix,movie,12,24.231245040893555
+57,indonesia,2021,netflix,tv show,1,24.231245040893555
+19,ireland,2013,netflix,tv show,1,21.538034439086914
+19,ireland,2014,netflix,tv show,2,21.47301483154297
+19,ireland,2015,netflix,movie,2,21.368398666381836
+19,ireland,2015,hulu,tv show,1,21.368398666381836
+19,ireland,2016,netflix,movie,2,21.21454620361328
+19,ireland,2016,netflix,tv show,1,21.21454620361328
+19,ireland,2017,netflix,movie,6,21.012542724609375
+19,ireland,2017,netflix,tv show,1,21.012542724609375
+19,ireland,2018,netflix,movie,13,20.768558502197266
+19,ireland,2018,hulu,movie,1,20.768558502197266
+19,ireland,2018,netflix,tv show,2,20.768558502197266
+19,ireland,2019,netflix,movie,3,20.50035285949707
+19,ireland,2019,hulu,movie,1,20.50035285949707
+19,ireland,2019,netflix,tv show,1,20.50035285949707
+19,ireland,2019,disney,tv show,1,20.50035285949707
+19,ireland,2019,hulu,tv show,1,20.50035285949707
+19,ireland,2020,disney,movie,1,20.16448974609375
+19,ireland,2020,hulu,movie,4,20.16448974609375
+19,ireland,2020,netflix,movie,6,20.16448974609375
+19,ireland,2020,hulu,tv show,3,20.16448974609375
+19,ireland,2020,netflix,tv show,6,20.16448974609375
+19,ireland,2020,disney,tv show,2,20.16448974609375
+19,ireland,2021,hulu,movie,2,19.86558723449707
+19,ireland,2021,netflix,movie,3,19.86558723449707
+19,ireland,2021,disney,movie,2,19.86558723449707
+19,ireland,2021,disney,tv show,2,19.86558723449707
+19,ireland,2021,netflix,tv show,2,19.86558723449707
+47,israel,2016,netflix,movie,3,28.26580238342285
+47,israel,2017,netflix,movie,5,28.267017364501953
+47,israel,2017,netflix,tv show,1,28.267017364501953
+47,israel,2018,netflix,movie,5,28.227035522460938
+47,israel,2018,netflix,tv show,3,28.227035522460938
+47,israel,2019,netflix,movie,4,28.15311050415039
+47,israel,2019,hulu,movie,1,28.15311050415039
+47,israel,2019,netflix,tv show,2,28.15311050415039
+47,israel,2020,netflix,movie,1,28.06181526184082
+47,israel,2020,hulu,movie,1,28.06181526184082
+47,israel,2020,netflix,tv show,1,28.06181526184082
+47,israel,2021,netflix,movie,1,27.969141006469727
+47,israel,2021,hulu,movie,1,27.969141006469727
+47,israel,2021,netflix,tv show,4,27.969141006469727
+9,italy,2015,netflix,movie,3,13.737574577331543
+9,italy,2016,netflix,movie,1,13.589312553405762
+9,italy,2016,netflix,tv show,1,13.589312553405762
+9,italy,2017,netflix,movie,12,13.431293487548828
+9,italy,2017,netflix,tv show,5,13.431293487548828
+9,italy,2018,hulu,movie,2,13.255928993225098
+9,italy,2018,netflix,movie,12,13.255928993225098
+9,italy,2018,netflix,tv show,2,13.255928993225098
+9,italy,2019,netflix,movie,19,13.058501243591309
+9,italy,2019,hulu,movie,2,13.058501243591309
+9,italy,2019,netflix,tv show,2,13.058501243591309
+9,italy,2020,hulu,movie,5,12.924293518066406
+9,italy,2020,netflix,movie,20,12.924293518066406
+9,italy,2020,hulu,tv show,2,12.924293518066406
+9,italy,2020,netflix,tv show,10,12.924293518066406
+9,italy,2021,netflix,movie,13,12.790064811706543
+9,italy,2021,hulu,movie,2,12.790064811706543
+9,italy,2021,netflix,tv show,5,12.790064811706543
+8,japan,2006,hulu,tv show,1,13.645404815673828
+8,japan,2009,hulu,tv show,7,13.340681076049805
+8,japan,2010,hulu,movie,1,13.149709701538086
+8,japan,2010,hulu,tv show,7,13.149709701538086
+8,japan,2011,hulu,movie,1,13.07153034210205
+8,japan,2011,hulu,tv show,15,13.07153034210205
+8,japan,2012,hulu,tv show,8,12.976642608642578
+8,japan,2013,hulu,movie,1,12.875693321228027
+8,japan,2013,hulu,tv show,12,12.875693321228027
+8,japan,2014,hulu,movie,2,12.77402114868164
+8,japan,2014,hulu,tv show,14,12.77402114868164
+8,japan,2015,hulu,movie,2,12.545929908752441
+8,japan,2015,hulu,tv show,26,12.545929908752441
+8,japan,2015,netflix,tv show,1,12.545929908752441
+8,japan,2016,hulu,movie,2,12.444122314453125
+8,japan,2016,netflix,movie,5,12.444122314453125
+8,japan,2016,hulu,tv show,15,12.444122314453125
+8,japan,2016,netflix,tv show,24,12.444122314453125
+8,japan,2017,hulu,movie,6,12.323630332946777
+8,japan,2017,netflix,movie,18,12.323630332946777
+8,japan,2017,hulu,tv show,78,12.323630332946777
+8,japan,2017,netflix,tv show,20,12.323630332946777
+8,japan,2018,hulu,movie,1,12.207934379577637
+8,japan,2018,netflix,movie,13,12.207934379577637
+8,japan,2018,hulu,tv show,4,12.207934379577637
+8,japan,2018,netflix,tv show,32,12.207934379577637
+8,japan,2019,hulu,movie,2,12.057279586791992
+8,japan,2019,disney,movie,3,12.057279586791992
+8,japan,2019,netflix,movie,30,12.057279586791992
+8,japan,2019,disney,tv show,2,12.057279586791992
+8,japan,2019,netflix,tv show,45,12.057279586791992
+8,japan,2019,hulu,tv show,21,12.057279586791992
+8,japan,2020,hulu,movie,16,11.91602611541748
+8,japan,2020,netflix,movie,32,11.91602611541748
+8,japan,2020,hulu,tv show,27,11.91602611541748
+8,japan,2020,netflix,tv show,52,11.91602611541748
+8,japan,2020,disney,tv show,2,11.91602611541748
+8,japan,2021,netflix,movie,24,11.7800874710083
+8,japan,2021,disney,movie,1,11.7800874710083
+8,japan,2021,hulu,movie,4,11.7800874710083
+8,japan,2021,disney,tv show,2,11.7800874710083
+8,japan,2021,hulu,tv show,5,11.7800874710083
+8,japan,2021,netflix,tv show,30,11.7800874710083
+104,latvia,2017,netflix,movie,1,15.674731254577637
+113,lithuania,2017,netflix,movie,1,14.912266731262207
+33,luxembourg,2018,netflix,movie,3,16.097869873046875
+33,luxembourg,2018,hulu,movie,1,16.097869873046875
+33,luxembourg,2019,netflix,movie,4,16.022825241088867
+33,luxembourg,2019,disney,tv show,1,16.022825241088867
+33,luxembourg,2020,hulu,movie,1,15.979366302490234
+33,luxembourg,2020,netflix,movie,4,15.979366302490234
+33,luxembourg,2020,hulu,tv show,1,15.979366302490234
+33,luxembourg,2020,netflix,tv show,1,15.979366302490234
+33,luxembourg,2021,netflix,tv show,1,15.941218376159668
+25,malta,2020,hulu,movie,1,13.435274124145508
+25,malta,2020,netflix,movie,2,13.435274124145508
+25,malta,2020,netflix,tv show,1,13.435274124145508
+3,mexico,2011,netflix,movie,1,29.139291763305664
+3,mexico,2012,netflix,movie,1,28.727977752685547
+3,mexico,2015,netflix,movie,1,27.583446502685547
+3,mexico,2016,netflix,movie,9,27.222423553466797
+3,mexico,2017,netflix,movie,25,26.864412307739258
+3,mexico,2017,netflix,tv show,11,26.864412307739258
+3,mexico,2018,netflix,movie,22,26.50710105895996
+3,mexico,2018,hulu,movie,1,26.50710105895996
+3,mexico,2018,hulu,tv show,2,26.50710105895996
+3,mexico,2018,netflix,tv show,9,26.50710105895996
+3,mexico,2019,disney,movie,2,26.14902687072754
+3,mexico,2019,netflix,movie,23,26.14902687072754
+3,mexico,2019,netflix,tv show,16,26.14902687072754
+3,mexico,2020,disney,movie,1,25.79353904724121
+3,mexico,2020,netflix,movie,19,25.79353904724121
+3,mexico,2020,hulu,movie,3,25.79353904724121
+3,mexico,2020,netflix,tv show,11,25.79353904724121
+3,mexico,2020,disney,tv show,1,25.79353904724121
+3,mexico,2021,hulu,movie,2,25.44442367553711
+3,mexico,2021,netflix,movie,10,25.44442367553711
+3,mexico,2021,netflix,tv show,11,25.44442367553711
+3,mexico,2021,hulu,tv show,1,25.44442367553711
+24,netherlands,2016,netflix,movie,7,16.387067794799805
+24,netherlands,2016,netflix,tv show,2,16.387067794799805
+24,netherlands,2017,netflix,movie,8,16.182044982910156
+24,netherlands,2018,netflix,movie,11,15.966111183166504
+24,netherlands,2018,hulu,movie,1,15.966111183166504
+24,netherlands,2019,netflix,movie,7,15.756584167480469
+24,netherlands,2019,netflix,tv show,1,15.756584167480469
+24,netherlands,2020,netflix,movie,7,15.588768005371094
+24,netherlands,2020,hulu,movie,3,15.588768005371094
+24,netherlands,2020,netflix,tv show,4,15.588768005371094
+24,netherlands,2021,netflix,movie,4,15.468485832214355
+24,netherlands,2021,netflix,tv show,1,15.468485832214355
+15,new zealand,2015,netflix,movie,2,19.875688552856445
+15,new zealand,2016,netflix,movie,1,19.614561080932617
+15,new zealand,2016,hulu,movie,1,19.614561080932617
+15,new zealand,2016,netflix,tv show,3,19.614561080932617
+15,new zealand,2017,netflix,movie,3,19.462356567382812
+15,new zealand,2017,hulu,tv show,1,19.462356567382812
+15,new zealand,2018,netflix,movie,4,19.31294059753418
+15,new zealand,2018,netflix,tv show,2,19.31294059753418
+15,new zealand,2019,disney,movie,3,19.199871063232422
+15,new zealand,2019,netflix,movie,5,19.199871063232422
+15,new zealand,2019,hulu,movie,1,19.199871063232422
+15,new zealand,2019,netflix,tv show,2,19.199871063232422
+15,new zealand,2020,netflix,movie,6,18.98628807067871
+15,new zealand,2020,hulu,movie,1,18.98628807067871
+15,new zealand,2020,netflix,tv show,1,18.98628807067871
+15,new zealand,2021,netflix,movie,5,18.936885833740234
+15,new zealand,2021,hulu,movie,1,18.936885833740234
+15,new zealand,2021,netflix,tv show,1,18.936885833740234
+28,norway,2014,netflix,tv show,1,18.133941650390625
+28,norway,2015,netflix,movie,1,17.9805850982666
+28,norway,2016,netflix,movie,3,17.872514724731445
+28,norway,2016,netflix,tv show,2,17.872514724731445
+28,norway,2017,netflix,movie,5,17.781509399414062
+28,norway,2018,hulu,movie,1,17.638568878173828
+28,norway,2018,netflix,movie,1,17.638568878173828
+28,norway,2018,netflix,tv show,1,17.638568878173828
+28,norway,2019,netflix,movie,2,17.437559127807617
+28,norway,2019,hulu,movie,2,17.437559127807617
+28,norway,2019,netflix,tv show,1,17.437559127807617
+28,norway,2019,disney,tv show,1,17.437559127807617
+28,norway,2020,hulu,movie,4,17.210983276367188
+28,norway,2020,netflix,movie,5,17.210983276367188
+28,norway,2020,netflix,tv show,4,17.210983276367188
+28,norway,2021,netflix,movie,3,16.988454818725586
+28,norway,2021,netflix,tv show,1,16.988454818725586
+32,poland,2016,netflix,tv show,1,14.98904800415039
+32,poland,2017,netflix,movie,1,15.092605590820312
+32,poland,2018,netflix,movie,6,15.216525077819824
+32,poland,2018,hulu,movie,1,15.216525077819824
+32,poland,2018,netflix,tv show,1,15.216525077819824
+32,poland,2019,disney,movie,1,15.298301696777344
+32,poland,2019,netflix,movie,13,15.298301696777344
+32,poland,2019,netflix,tv show,3,15.298301696777344
+32,poland,2020,netflix,movie,9,15.341404914855957
+32,poland,2020,hulu,movie,1,15.341404914855957
+32,poland,2020,netflix,tv show,2,15.341404914855957
+32,poland,2021,disney,movie,1,15.344381332397461
+32,poland,2021,netflix,movie,4,15.344381332397461
+32,poland,2021,netflix,tv show,2,15.344381332397461
+85,portugal,2017,netflix,movie,1,13.890761375427246
+85,portugal,2018,netflix,movie,2,13.705174446105957
+85,portugal,2019,netflix,movie,1,13.517165184020996
+85,portugal,2021,netflix,movie,2,13.124312400817871
+52,romania,2017,netflix,movie,1,15.616329193115234
+52,romania,2018,hulu,movie,1,15.695587158203125
+52,romania,2019,hulu,movie,1,15.676460266113281
+52,romania,2019,netflix,movie,3,15.676460266113281
+52,romania,2020,netflix,movie,5,15.723162651062012
+52,romania,2020,hulu,movie,1,15.723162651062012
+52,romania,2021,netflix,movie,5,15.758326530456543
+30,russia,2016,netflix,tv show,1,17.226043701171875
+30,russia,2017,netflix,movie,3,17.490280151367188
+30,russia,2017,netflix,tv show,4,17.490280151367188
+30,russia,2018,netflix,movie,2,17.625789642333984
+30,russia,2018,hulu,movie,1,17.625789642333984
+30,russia,2018,netflix,tv show,4,17.625789642333984
+30,russia,2019,disney,movie,1,17.674339294433594
+30,russia,2019,netflix,movie,1,17.674339294433594
+30,russia,2019,netflix,tv show,3,17.674339294433594
+30,russia,2020,hulu,movie,2,17.69243049621582
+30,russia,2020,netflix,movie,3,17.69243049621582
+30,russia,2020,netflix,tv show,2,17.69243049621582
+30,russia,2021,netflix,movie,2,17.72437858581543
+30,russia,2021,hulu,movie,1,17.72437858581543
+30,russia,2021,netflix,tv show,2,17.72437858581543
+77,saudi arabia,2017,netflix,movie,1,24.69581413269043
+77,saudi arabia,2018,netflix,tv show,1,24.603351593017578
+77,saudi arabia,2020,hulu,movie,1,24.43775749206543
+77,saudi arabia,2020,netflix,movie,6,24.43775749206543
+77,saudi arabia,2020,netflix,tv show,3,24.43775749206543
+77,saudi arabia,2021,netflix,movie,2,24.555849075317383
+56,singapore,2017,netflix,movie,2,14.990206718444824
+56,singapore,2017,netflix,tv show,16,14.990206718444824
+56,singapore,2018,netflix,movie,7,14.799251556396484
+56,singapore,2018,netflix,tv show,1,14.799251556396484
+56,singapore,2019,disney,movie,1,14.680212020874023
+56,singapore,2019,hulu,movie,1,14.680212020874023
+56,singapore,2019,netflix,movie,6,14.680212020874023
+56,singapore,2019,netflix,tv show,2,14.680212020874023
+56,singapore,2020,netflix,movie,2,14.544398307800293
+56,singapore,2020,netflix,tv show,2,14.544398307800293
+56,singapore,2021,disney,movie,1,14.477323532104492
+56,singapore,2021,netflix,movie,1,14.477323532104492
+56,singapore,2021,netflix,tv show,2,14.477323532104492
+96,slovakia,2017,netflix,movie,1,15.534629821777344
+108,slovenia,2016,netflix,movie,1,14.890703201293945
+108,slovenia,2017,netflix,movie,1,14.988473892211914
+108,slovenia,2018,netflix,movie,1,15.063935279846191
+108,slovenia,2019,disney,movie,1,15.074498176574707
+41,south africa,2016,netflix,movie,2,28.99912452697754
+41,south africa,2017,netflix,movie,4,28.909526824951172
+41,south africa,2017,netflix,tv show,1,28.909526824951172
+41,south africa,2018,netflix,movie,11,28.83287239074707
+41,south africa,2018,netflix,tv show,2,28.83287239074707
+41,south africa,2019,netflix,movie,7,28.678499221801758
+41,south africa,2019,disney,movie,1,28.678499221801758
+41,south africa,2019,netflix,tv show,2,28.678499221801758
+41,south africa,2020,netflix,movie,19,28.47917366027832
+41,south africa,2020,disney,movie,1,28.47917366027832
+41,south africa,2020,netflix,tv show,5,28.47917366027832
+41,south africa,2021,hulu,movie,1,28.316051483154297
+41,south africa,2021,netflix,movie,8,28.316051483154297
+41,south africa,2021,disney,movie,1,28.316051483154297
+41,south africa,2021,netflix,tv show,1,28.316051483154297
+5,south korea,2015,hulu,tv show,1,13.780045509338379
+5,south korea,2016,netflix,movie,1,13.402688980102539
+5,south korea,2016,hulu,tv show,1,13.402688980102539
+5,south korea,2016,netflix,tv show,10,13.402688980102539
+5,south korea,2017,netflix,movie,11,13.091963768005371
+5,south korea,2017,hulu,tv show,1,13.091963768005371
+5,south korea,2017,netflix,tv show,32,13.091963768005371
+5,south korea,2018,netflix,movie,15,12.784814834594727
+5,south korea,2018,hulu,tv show,4,12.784814834594727
+5,south korea,2018,netflix,tv show,18,12.784814834594727
+5,south korea,2019,netflix,movie,14,12.456490516662598
+5,south korea,2019,hulu,movie,1,12.456490516662598
+5,south korea,2019,disney,movie,1,12.456490516662598
+5,south korea,2019,netflix,tv show,45,12.456490516662598
+5,south korea,2019,disney,tv show,6,12.456490516662598
+5,south korea,2020,hulu,movie,5,12.164983749389648
+5,south korea,2020,netflix,movie,13,12.164983749389648
+5,south korea,2020,netflix,tv show,45,12.164983749389648
+5,south korea,2020,hulu,tv show,1,12.164983749389648
+5,south korea,2021,netflix,movie,8,11.872932434082031
+5,south korea,2021,disney,tv show,6,11.872932434082031
+5,south korea,2021,netflix,tv show,22,11.872932434082031
+21,spain,2011,netflix,movie,1,15.063251495361328
+21,spain,2016,netflix,movie,13,15.081177711486816
+21,spain,2016,netflix,tv show,4,15.081177711486816
+21,spain,2017,netflix,movie,38,15.000104904174805
+21,spain,2017,netflix,tv show,5,15.000104904174805
+21,spain,2018,hulu,movie,1,14.857877731323242
+21,spain,2018,netflix,movie,38,14.857877731323242
+21,spain,2018,netflix,tv show,6,14.857877731323242
+21,spain,2019,hulu,movie,1,14.638269424438477
+21,spain,2019,netflix,movie,36,14.638269424438477
+21,spain,2019,netflix,tv show,17,14.638269424438477
+21,spain,2020,netflix,movie,27,14.402739524841309
+21,spain,2020,hulu,movie,5,14.402739524841309
+21,spain,2020,disney,movie,1,14.402739524841309
+21,spain,2020,netflix,tv show,17,14.402739524841309
+21,spain,2020,hulu,tv show,1,14.402739524841309
+21,spain,2021,hulu,movie,2,14.096564292907715
+21,spain,2021,disney,movie,3,14.096564292907715
+21,spain,2021,netflix,movie,21,14.096564292907715
+21,spain,2021,amazon,movie,1,14.096564292907715
+21,spain,2021,netflix,tv show,13,14.096564292907715
+21,spain,2021,amazon,tv show,2,14.096564292907715
+21,spain,2021,hulu,tv show,1,14.096564292907715
+11,sweden,2016,netflix,movie,1,17.525474548339844
+11,sweden,2016,netflix,tv show,1,17.525474548339844
+11,sweden,2017,hulu,movie,2,17.676355361938477
+11,sweden,2017,netflix,movie,10,17.676355361938477
+11,sweden,2017,netflix,tv show,1,17.676355361938477
+11,sweden,2018,hulu,movie,5,17.76082420349121
+11,sweden,2018,netflix,movie,7,17.76082420349121
+11,sweden,2018,netflix,tv show,3,17.76082420349121
+11,sweden,2019,hulu,movie,3,17.7769718170166
+11,sweden,2019,netflix,movie,8,17.7769718170166
+11,sweden,2019,netflix,tv show,3,17.7769718170166
+11,sweden,2019,disney,tv show,1,17.7769718170166
+11,sweden,2020,netflix,movie,2,17.73621368408203
+11,sweden,2020,hulu,movie,11,17.73621368408203
+11,sweden,2020,netflix,tv show,2,17.73621368408203
+11,sweden,2021,netflix,movie,5,17.650577545166016
+11,sweden,2021,hulu,movie,1,17.650577545166016
+11,sweden,2021,netflix,tv show,1,17.650577545166016
+35,switzerland,2016,netflix,tv show,1,14.879246711730957
+35,switzerland,2017,netflix,movie,4,14.931954383850098
+35,switzerland,2018,netflix,movie,4,14.991202354431152
+35,switzerland,2019,hulu,movie,1,15.03545093536377
+35,switzerland,2019,netflix,movie,5,15.03545093536377
+35,switzerland,2020,hulu,movie,2,15.056350708007812
+35,switzerland,2020,netflix,movie,3,15.056350708007812
+35,switzerland,2020,disney,movie,1,15.056350708007812
+35,switzerland,2021,netflix,movie,3,15.083550453186035
+17,turkey,2016,netflix,tv show,4,23.84773826599121
+17,turkey,2017,netflix,movie,17,23.632171630859375
+17,turkey,2017,netflix,tv show,14,23.632171630859375
+17,turkey,2018,netflix,movie,4,23.47323989868164
+17,turkey,2018,netflix,tv show,2,23.47323989868164
+17,turkey,2019,netflix,movie,15,23.24832534790039
+17,turkey,2019,netflix,tv show,4,23.24832534790039
+17,turkey,2020,netflix,movie,25,22.954204559326172
+17,turkey,2020,netflix,tv show,3,22.954204559326172
+17,turkey,2021,netflix,movie,22,22.605710983276367
+17,turkey,2021,netflix,tv show,5,22.605710983276367
+4,united kingdom,2010,hulu,tv show,2,17.611984252929688
+4,united kingdom,2011,netflix,movie,1,17.565263748168945
+4,united kingdom,2012,hulu,movie,1,17.60256576538086
+4,united kingdom,2012,hulu,tv show,1,17.60256576538086
+4,united kingdom,2013,hulu,movie,3,17.638402938842773
+4,united kingdom,2013,netflix,tv show,1,17.638402938842773
+4,united kingdom,2013,hulu,tv show,12,17.638402938842773
+4,united kingdom,2014,hulu,movie,2,17.65959358215332
+4,united kingdom,2014,netflix,movie,3,17.65959358215332
+4,united kingdom,2014,hulu,tv show,2,17.65959358215332
+4,united kingdom,2015,netflix,movie,3,17.70969581604004
+4,united kingdom,2015,hulu,movie,2,17.70969581604004
+4,united kingdom,2015,hulu,tv show,3,17.70969581604004
+4,united kingdom,2015,netflix,tv show,5,17.70969581604004
+4,united kingdom,2016,hulu,movie,3,17.787019729614258
+4,united kingdom,2016,netflix,movie,32,17.787019729614258
+4,united kingdom,2016,netflix,tv show,24,17.787019729614258
+4,united kingdom,2016,hulu,tv show,13,17.787019729614258
+4,united kingdom,2017,netflix,movie,83,17.879364013671875
+4,united kingdom,2017,hulu,movie,3,17.879364013671875
+4,united kingdom,2017,hulu,tv show,9,17.879364013671875
+4,united kingdom,2017,netflix,tv show,54,17.879364013671875
+4,united kingdom,2018,hulu,movie,8,17.929325103759766
+4,united kingdom,2018,netflix,movie,107,17.929325103759766
+4,united kingdom,2018,netflix,tv show,45,17.929325103759766
+4,united kingdom,2018,hulu,tv show,4,17.929325103759766
+4,united kingdom,2019,netflix,movie,136,17.906517028808594
+4,united kingdom,2019,disney,movie,27,17.906517028808594
+4,united kingdom,2019,hulu,movie,22,17.906517028808594
+4,united kingdom,2019,netflix,tv show,60,17.906517028808594
+4,united kingdom,2019,hulu,tv show,11,17.906517028808594
+4,united kingdom,2019,disney,tv show,5,17.906517028808594
+4,united kingdom,2020,disney,movie,28,17.851276397705078
+4,united kingdom,2020,hulu,movie,55,17.851276397705078
+4,united kingdom,2020,netflix,movie,101,17.851276397705078
+4,united kingdom,2020,netflix,tv show,51,17.851276397705078
+4,united kingdom,2020,hulu,tv show,12,17.851276397705078
+4,united kingdom,2020,disney,tv show,13,17.851276397705078
+4,united kingdom,2021,netflix,movie,85,17.23062515258789
+4,united kingdom,2021,disney,movie,22,17.23062515258789
+4,united kingdom,2021,hulu,movie,22,17.23062515258789
+4,united kingdom,2021,amazon,movie,3,17.23062515258789
+4,united kingdom,2021,disney,tv show,8,17.23062515258789
+4,united kingdom,2021,hulu,tv show,10,17.23062515258789
+4,united kingdom,2021,netflix,tv show,37,17.23062515258789
+1,united states,2008,netflix,movie,1,20.029132843017578
+1,united states,2008,hulu,tv show,1,20.029132843017578
+1,united states,2008,netflix,tv show,1,20.029132843017578
+1,united states,2009,netflix,movie,1,19.913053512573242
+1,united states,2010,netflix,movie,1,19.785661697387695
+1,united states,2010,hulu,tv show,2,19.785661697387695
+1,united states,2011,netflix,movie,12,19.634136199951172
+1,united states,2011,hulu,movie,1,19.634136199951172
+1,united states,2011,hulu,tv show,1,19.634136199951172
+1,united states,2012,netflix,movie,3,19.474931716918945
+1,united states,2012,hulu,tv show,5,19.474931716918945
+1,united states,2013,netflix,movie,5,19.327903747558594
+1,united states,2013,hulu,tv show,6,19.327903747558594
+1,united states,2013,netflix,tv show,5,19.327903747558594
+1,united states,2014,hulu,movie,10,19.183876037597656
+1,united states,2014,netflix,movie,18,19.183876037597656
+1,united states,2014,hulu,tv show,16,19.183876037597656
+1,united states,2014,netflix,tv show,5,19.183876037597656
+1,united states,2015,netflix,movie,41,19.02797508239746
+1,united states,2015,hulu,movie,5,19.02797508239746
+1,united states,2015,netflix,tv show,16,19.02797508239746
+1,united states,2015,hulu,tv show,23,19.02797508239746
+1,united states,2016,netflix,movie,140,18.887845993041992
+1,united states,2016,hulu,movie,3,18.887845993041992
+1,united states,2016,netflix,tv show,65,18.887845993041992
+1,united states,2016,hulu,tv show,22,18.887845993041992
+1,united states,2017,hulu,movie,18,18.764881134033203
+1,united states,2017,netflix,movie,368,18.764881134033203
+1,united states,2017,hulu,tv show,69,18.764881134033203
+1,united states,2017,netflix,tv show,104,18.764881134033203
+1,united states,2018,netflix,movie,467,18.626747131347656
+1,united states,2018,hulu,movie,52,18.626747131347656
+1,united states,2018,hulu,tv show,102,18.626747131347656
+1,united states,2018,netflix,tv show,148,18.626747131347656
+1,united states,2019,disney,movie,595,18.46104621887207
+1,united states,2019,netflix,movie,691,18.46104621887207
+1,united states,2019,hulu,movie,111,18.46104621887207
+1,united states,2019,netflix,tv show,185,18.46104621887207
+1,united states,2019,hulu,tv show,75,18.46104621887207
+1,united states,2019,disney,tv show,124,18.46104621887207
+1,united states,2020,disney,movie,217,18.276988983154297
+1,united states,2020,hulu,movie,227,18.276988983154297
+1,united states,2020,netflix,movie,601,18.276988983154297
+1,united states,2020,netflix,tv show,263,18.276988983154297
+1,united states,2020,disney,tv show,76,18.276988983154297
+1,united states,2020,hulu,tv show,124,18.276988983154297
+1,united states,2021,disney,movie,104,18.04901885986328
+1,united states,2021,netflix,movie,469,18.04901885986328
+1,united states,2021,amazon,movie,7,18.04901885986328
+1,united states,2021,hulu,movie,84,18.04901885986328
+1,united states,2021,disney,tv show,75,18.04901885986328
+1,united states,2021,hulu,tv show,146,18.04901885986328
+1,united states,2021,amazon,tv show,7,18.04901885986328
+1,united states,2021,netflix,tv show,179,18.04901885986328
