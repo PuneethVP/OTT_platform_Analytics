@@ -1,5 +1,7 @@
 # Youthful Eyes on OTT: A Global Content Production Analysis
 
+### Collaborators : Urjani Chakravarti
+
 - In this project, our primary aim is to investigate the potential correlation between the proportion of young people in a country and the quantity of content generated on Over-The-Top (OTT) platforms. Over the top platforms are online platforms which provides content release services and provide contents to the consumer over the internet. It gets its name Over the top (OTT) as the contents are released over the top of the internet services. Here, We wanted to differentiate between longer formats, such as TV shows, and shorter formats like movies. Our study seeks to determine whether the presence of a youthful demographic in a country has a discernible impact on the overall volume of content produced on OTT platforms.
 -  used Datacamp website ennvironment for executing the data modelling and Exported csv files after cleaning and merging different contents from various platforms and Analysed using Tableau
 
